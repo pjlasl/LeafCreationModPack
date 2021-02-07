@@ -1,0 +1,60 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.0.13",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "LeafCreations ModPack",
+  "version": "1.0.0",
+  "author": "Peter Leaf",
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 3183643,
+      "required": true
+    },
+    {
+      "projectID": 361988,
+      "fileID": 3146455,
+      "required": true
+    },
+    {
+      "projectID": 410298,
+      "fileID": 3194598,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 3193221,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3194084,
+      "required": true
+    },
+    {
+      "projectID": 395864,
+      "fileID": 3194852,
+      "required": true
+    },
+    {
+      "projectID": 419697,
+      "fileID": 3194695,
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 3187177,
+      "required": true
+    }
+
+  ],
+  "overrides": "overrides"
+}

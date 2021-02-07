@@ -1,0 +1,9 @@
+{
+  "warningMessage": false,
+  "generateSticks": false,
+  "harderGroundBlocks": true,
+  "damageProbability": 0.0,
+  "flintConsumeProb": 0.3,
+  "flintSuccessProb": 1.0,
+  "woodChoppingProb": 1.0
+}
