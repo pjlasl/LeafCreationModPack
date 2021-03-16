@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "1.1b",
+    "version": "1.2a",
     "author": "pablleaf",
     "name": "LeafCreations",
     "files": [
@@ -23,11 +23,6 @@
         {
             "projectID": 442719,
             "fileID": 3222472,
-            "required": "true"
-        },
-        {
-            "projectID": 450269,
-            "fileID": 3229643,
             "required": "true"
         },
         {
@@ -71,6 +66,11 @@
             "required": "true"
         },
         {
+            "projectID": 250363,
+            "fileID": 3128555,
+            "required": "true"
+        },
+        {
             "projectID": 365045,
             "fileID": 3239164,
             "required": "true"
@@ -78,6 +78,11 @@
         {
             "projectID": 331723,
             "fileID": 3071140,
+            "required": "true"
+        },
+        {
+            "projectID": 452344,
+            "fileID": 3231017,
             "required": "true"
         },
         {
@@ -137,7 +142,7 @@
         },
         {
             "projectID": 228525,
-            "fileID": 3232951,
+            "fileID": 3241077,
             "required": "true"
         },
         {
@@ -312,7 +317,7 @@
         },
         {
             "projectID": 349559,
-            "fileID": 3207464,
+            "fileID": 3207457,
             "required": "true"
         },
         {
@@ -347,7 +352,7 @@
         },
         {
             "projectID": 363703,
-            "fileID": 3081381,
+            "fileID": 3241029,
             "required": "true"
         },
         {
@@ -597,7 +602,7 @@
         },
         {
             "projectID": 412082,
-            "fileID": 3235600,
+            "fileID": 3240864,
             "required": "true"
         },
         {
