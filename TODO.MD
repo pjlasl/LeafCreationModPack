@@ -3,6 +3,10 @@
 - [x] Allow Maple planks to craft Crafting table
 - [ ] Subterranean Wild blocks don't work in stonecutter
 
+# Woodcutter Issues
+- [ ] Environmental wood types
+- [ ] Atmospheric wood types
+
 # Missing Mods
 - [x] Update to a minimum of Forge 36.1
 - [x] Add missing AutoRegLib

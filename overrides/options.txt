@@ -168,7 +168,7 @@ key_key.jei.previousPage:key.keyboard.page.up
 key_key.jei.nextPage:key.keyboard.page.down
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-soundCategory_master:0.50
+soundCategory_master:0.50165564
 soundCategory_music:0.15492958
 soundCategory_record:1.0
 soundCategory_weather:1.0
