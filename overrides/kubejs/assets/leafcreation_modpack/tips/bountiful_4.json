@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Modpack Tip",
+    "bold": true,
+    "underlined": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Decrees can be found as rewards or traded for with higher tiered villagers."
+  }
+}

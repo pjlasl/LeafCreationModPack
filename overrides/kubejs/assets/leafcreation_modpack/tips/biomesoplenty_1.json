@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Modpack Tip",
+    "bold": true,
+    "underlined": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "There are over 200 Biomes to explorer. Which one is your favorite?"
+  }
+}

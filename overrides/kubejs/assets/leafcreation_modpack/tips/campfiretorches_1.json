@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Modpack Tip",
+    "bold": true,
+    "underlined": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Craft torches by placing sticks on a campfire."
+  }
+}
