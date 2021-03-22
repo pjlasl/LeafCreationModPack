@@ -3,7 +3,7 @@
         "version": "1.16.5",
         "modLoaders": [
             {
-                "id": "forge-36.0.58",
+                "id": "forge-36.1.0",
                 "primary": true
             }
         ]
@@ -36,13 +36,13 @@
         {
             "title": "Alex's Mobs",
             "projectID": 426558,
-            "fileID": 3230693,
+            "fileID": 3245951,
             "required": "true"
         },
         {
             "title": "Architectury",
             "projectID": 419699,
-            "fileID": 3245487,
+            "fileID": 3247096,
             "required": "true"
         },
         {
@@ -146,6 +146,12 @@
             "title": "Better Mineshafts",
             "projectID": 389665,
             "fileID": 3245380,
+            "required": "true"
+        },
+        {
+            "title": "Better Respawn",
+            "projectID": 340907,
+            "fileID": 3247705,
             "required": "true"
         },
         {
@@ -365,7 +371,7 @@
         {
             "title": "Easy Magic",
             "projectID": 456239,
-            "fileID": 3243935,
+            "fileID": 3245963,
             "required": "true"
         },
         {
@@ -383,7 +389,7 @@
         {
             "title": "Entity Culling",
             "projectID": 409087,
-            "fileID": 3243084,
+            "fileID": 3246798,
             "required": "true"
         },
         {
@@ -462,7 +468,7 @@
         {
             "title": "Guard Villagers",
             "projectID": 360203,
-            "fileID": 3205572,
+            "fileID": 3247081,
             "required": "true"
         },
         {
@@ -588,6 +594,13 @@
             "fileID": 3055694,
             "required": "true"
         },
+        {
+            "title": "Mc2Discord",
+            "projectID": 325235,
+            "fileID": 3247035,
+            "required": "true",
+            "platform": "Server"
+        },        
         {
             "title": "More Crafting Tables",
             "projectID": 417365,

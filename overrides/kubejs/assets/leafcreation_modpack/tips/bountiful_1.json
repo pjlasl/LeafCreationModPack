@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Modpack Tip",
+    "bold": true,
+    "underlined": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Bounty boards can be found throughout the world in villages, and they'll generate bounties inside of them."
+  }
+}

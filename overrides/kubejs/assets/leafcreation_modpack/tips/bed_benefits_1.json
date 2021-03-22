@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Modpack Tip",
+    "bold": true,
+    "underlined": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Sleeping in a bed has its benefits."
+  }
+}
