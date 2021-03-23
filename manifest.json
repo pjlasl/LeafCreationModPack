@@ -36,13 +36,13 @@
         {
             "title": "Alex's Mobs",
             "projectID": 426558,
-            "fileID": 3245951,
+            "fileID": 3248100,
             "required": "true"
         },
         {
             "title": "Architectury",
             "projectID": 419699,
-            "fileID": 3247096,
+            "fileID": 3248258,
             "required": "true"
         },
         {
@@ -266,7 +266,7 @@
         {
             "title": "Collective",
             "projectID": 342584,
-            "fileID": 3238039,
+            "fileID": 3248140,
             "required": "true"
         },
         {
@@ -345,8 +345,9 @@
         {
             "title": "Dynamic Surroundings",
             "projectID": 238891,
-            "fileID": 3221841,
-            "required": "true"
+            "fileID": 3248516,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Dynamic View",
@@ -390,7 +391,8 @@
             "title": "Entity Culling",
             "projectID": 409087,
             "fileID": 3246798,
-            "required": "true"
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Environmental",
@@ -421,6 +423,13 @@
             "projectID": 349559,
             "fileID": 3207457,
             "required": "true"
+        },
+        {
+            "title": "FancyMenu",
+            "projectID": 367706,
+            "fileID": 3247256,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Farmer's Delight",
@@ -528,6 +537,12 @@
             "required": "true"
         },
         {
+            "title": "Konkrete",
+            "projectID": 410295,
+            "fileID": 3239521,
+            "required": "true"
+        },
+        {
             "title": "Kotlin Forge",
             "projectID": 351264,
             "fileID": 3218088,
@@ -536,7 +551,7 @@
         {
             "title": "KubeJS",
             "projectID": 238086,
-            "fileID": 3240199,
+            "fileID": 3247934,
             "required": "true"
         },
         {
@@ -600,7 +615,7 @@
             "fileID": 3247035,
             "required": "true",
             "platform": "Server"
-        },        
+        },
         {
             "title": "More Crafting Tables",
             "projectID": 417365,
