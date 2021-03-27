@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Modpack Tip",
+    "bold": true,
+    "underlined": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Guard villagers spawn in villages in groups of about 6, equipped with either an iron sword or a crossbow."
+  }
+}
