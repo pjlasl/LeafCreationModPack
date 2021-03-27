@@ -1,0 +1,121 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = resourcepacks/leafcreation/background.jpg
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -30
+  action = movebutton
+  y = 10
+}
+
+customization {
+  identifier = %id=400346%
+  width = 78
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = joinserver
+  x = -30
+  width = 78
+  actionid = 9aa2f280-982d-4362-8012-48728238c0c01616811102314
+  action = addbutton
+  y = -13
+  label = Join Server
+  value = leaf-hardcore.my-serv.com
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = 51
+  action = movebutton
+  y = -13
+}
+
+customization {
+  identifier = %id=400382%
+  width = 78
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 51
+  action = movebutton
+  y = 10
+}
+
+customization {
+  identifier = %id=502382%
+  width = 78
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  basecolor = #ffff00
+  shadow = true
+  rotation = -20.0
+  x = 85
+  actionid = 4ad2cc44-c22c-41f8-901d-e5b45f292b011616774234843
+  action = addsplash
+  y = 65
+  scale = 1.0
+  refresh = false
+  text = LeafCreation Modpack v1.3
+  bouncing = true
+}
+
+customization {
+  path = resourcepacks/leafcreation/leaf_icon.png
+  orientation = bottom-right
+  x = -49
+  width = 50
+  action = addtexture
+  actionid = 972b5268-35c4-488d-b636-d6ea41aba6991616811125787
+  y = -58
+  height = 50
+}
+

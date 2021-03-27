@@ -24,13 +24,13 @@
         {
             "title": "Abnormal Delight",
             "projectID": 442719,
-            "fileID": 3222472,
+            "fileID": 3251168,
             "required": "true"
         },
         {
             "title": "Additional Bars",
             "projectID": 357362,
-            "fileID": 3136777,
+            "fileID": 3252134,
             "required": "true"
         },
         {
@@ -60,7 +60,7 @@
         {
             "title": "Atmospheric",
             "projectID": 362393,
-            "fileID": 3154934,
+            "fileID": 3249309,
             "required": "true"
         },
         {
@@ -96,7 +96,7 @@
         {
             "title": "Bayou Blues",
             "projectID": 452344,
-            "fileID": 3231017,
+            "fileID": 3250109,
             "required": "true"
         },
         {
@@ -169,8 +169,15 @@
         {
             "title": "Berry Good",
             "projectID": 355589,
-            "fileID": 3244057,
+            "fileID": 3249305,
             "required": "true"
+        },
+        {
+            "title": "BiomeInfo",
+            "projectID": 291480,
+            "fileID": 3168523,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Biomes O'Plenty",
@@ -350,20 +357,6 @@
             "platform": "Client"
         },
         {
-            "title": "Dynamic View",
-            "projectID": 366140,
-            "fileID": 3217166,
-            "required": "true",
-            "platform": "Server"
-        },
-        {
-            "title": "DynmapForge",
-            "projectID": 59433,
-            "fileID": 3242301,
-            "required": "true",
-            "platform": "Server"
-        },
-        {
             "title": "The Endergetic Expansion",
             "projectID": 291509,
             "fileID": 3154938,
@@ -378,19 +371,19 @@
         {
             "title": "Enhanced Celestials - Blood Moons & Harvest Moons",
             "projectID": 438447,
-            "fileID": 3183710,
+            "fileID": 3250471,
             "required": "true"
         },
         {
             "title": "Enhanced Mushrooms",
             "projectID": 383725,
-            "fileID": 3238643,
+            "fileID": 3250107,
             "required": "true"
         },
         {
             "title": "Entity Culling",
             "projectID": 409087,
-            "fileID": 3246798,
+            "fileID": 3251163,
             "required": "true",
             "platform": "Client"
         },
@@ -421,13 +414,13 @@
         {
             "title": "Falling Tree",
             "projectID": 349559,
-            "fileID": 3207457,
+            "fileID": 3249539,
             "required": "true"
         },
         {
             "title": "FancyMenu",
             "projectID": 367706,
-            "fileID": 3247256,
+            "fileID": 3249334,
             "required": "true",
             "platform": "Client"
         },
@@ -477,7 +470,7 @@
         {
             "title": "Guard Villagers",
             "projectID": 360203,
-            "fileID": 3247081,
+            "fileID": 3251245,
             "required": "true"
         },
         {
@@ -496,6 +489,12 @@
             "title": "Illagers Wear Armor",
             "projectID": 407488,
             "fileID": 3168027,
+            "required": "true"
+        },
+        {
+            "title": "Infernal Expansion",
+            "projectID": 395078,
+            "fileID": 3183888,
             "required": "true"
         },
         {
@@ -540,7 +539,8 @@
             "title": "Konkrete",
             "projectID": 410295,
             "fileID": 3239521,
-            "required": "true"
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Kotlin Forge",
@@ -610,13 +610,6 @@
             "required": "true"
         },
         {
-            "title": "Mc2Discord",
-            "projectID": 325235,
-            "fileID": 3247035,
-            "required": "true",
-            "platform": "Server"
-        },
-        {
             "title": "More Crafting Tables",
             "projectID": 417365,
             "fileID": 3171579,
@@ -647,17 +640,16 @@
             "required": "true"
         },
         {
+            "title": "Nether Skeletons",
+            "projectID": 460954,
+            "fileID": 3248928,
+            "required": "true"
+        },
+        {
             "title": "One Player Sleeping",
             "projectID": 360272,
             "fileID": 3107831,
             "required": "true"
-        },
-        {
-            "title": "Open Loader",
-            "projectID": 354339,
-            "fileID": 3198395,
-            "required": "true",
-            "platform": "Server"
         },
         {
             "title": "Outer End",
@@ -712,6 +704,12 @@
             "title": "Polymorph",
             "projectID": 388800,
             "fileID": 3187811,
+            "required": "true"
+        },
+        {
+            "title": "Pop",
+            "projectID": 457826,
+            "fileID": 3243205,
             "required": "true"
         },
         {
@@ -781,6 +779,12 @@
             "required": "true"
         },
         {
+            "title": "Spawn Balance Utility",
+            "projectID": 410821,
+            "fileID": 3250432,
+            "required": "true"
+        },
+        {
             "title": "Stray Spawn",
             "projectID": 348172,
             "fileID": 3238063,
@@ -795,13 +799,13 @@
         {
             "title": "Subterranean Wilderness",
             "projectID": 413426,
-            "fileID": 3178364,
+            "fileID": 3252175,
             "required": "true"
         },
         {
             "title": "Supplementaries",
             "projectID": 412082,
-            "fileID": 3245739,
+            "fileID": 3250953,
             "required": "true"
         },
         {
@@ -864,7 +868,7 @@
         {
             "title": "Upgraded Aquatic",
             "projectID": 326895,
-            "fileID": 3171113,
+            "fileID": 3249419,
             "required": "true"
         },
         {
