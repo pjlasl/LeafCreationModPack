@@ -2,7 +2,7 @@
 #Common config settings
 [common]
 	#If true, backpack can only be worn by placing it in curios 'Back' slot
-	curiosIntegration = false
+	curiosIntegration = true
 	enableBackpackAbilities = true
 	#Places backpack at place where player died
 	backpackDeathPlace = true

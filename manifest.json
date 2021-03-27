@@ -11,854 +11,919 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "1.2-alpha.2",
+    "version": "1.3",
     "author": "pablleaf",
     "name": "LeafCreations",
     "files": [
         {
             "title": "Abnormal Core",
-            "projectid": 382216,
-            "fileid": 3233486,
+            "projectID": 382216,
+            "fileID": 3233486,
             "required": "true"
         },
         {
             "title": "Abnormal Delight",
-            "projectid": 442719,
-            "fileid": 3222472,
+            "projectID": 442719,
+            "fileID": 3251168,
             "required": "true"
         },
         {
             "title": "Additional Bars",
-            "projectid": 357362,
-            "fileid": 3136777,
+            "projectID": 357362,
+            "fileID": 3252134,
             "required": "true"
         },
         {
             "title": "Alex's Mobs",
-            "projectid": 426558,
-            "fileid": 3230693,
+            "projectID": 426558,
+            "fileID": 3248100,
             "required": "true"
         },
         {
             "title": "Architectury",
-            "projectid": 419699,
-            "fileid": 3243901,
+            "projectID": 419699,
+            "fileID": 3248258,
             "required": "true"
         },
         {
             "title": "Artifacts",
-            "projectid": 312353,
-            "fileid": 3225672,
+            "projectID": 312353,
+            "fileID": 3225672,
             "required": "true"
         },
         {
             "title": "Astikorcarts",
-            "projectid": 273771,
-            "fileid": 3216457,
+            "projectID": 273771,
+            "fileID": 3216457,
             "required": "true"
         },
         {
             "title": "Atmospheric",
-            "projectid": 362393,
-            "fileid": 3154934,
+            "projectID": 362393,
+            "fileID": 3249309,
             "required": "true"
         },
         {
             "title": "AttributeFix",
-            "projectid": 280510,
-            "fileid": 3232225,
+            "projectID": 280510,
+            "fileID": 3232225,
             "required": "true"
         },
         {
             "title": "Auto Planting Forests",
-            "projectid": 444013,
-            "fileid": 3200017,
+            "projectID": 444013,
+            "fileID": 3200017,
             "required": "true"
         },
         {
             "title": "AutoRegLig",
-            "projectid": 250363,
-            "fileid": 3128555,
+            "projectID": 250363,
+            "fileID": 3128555,
             "required": "true"
         },
         {
             "title": "Autumnity",
-            "projectid": 365045,
-            "fileid": 3239164,
+            "projectID": 365045,
+            "fileID": 3239164,
             "required": "true"
         },
         {
             "title": "Bamboo Everything",
-            "projectid": 331723,
-            "fileid": 3071140,
+            "projectID": 331723,
+            "fileID": 3071140,
             "required": "true"
         },
         {
             "title": "Bayou Blues",
-            "projectid": 452344,
-            "fileid": 3231017,
+            "projectID": 452344,
+            "fileID": 3250109,
             "required": "true"
         },
         {
             "title": "Bed Benefits",
-            "projectid": 377051,
-            "fileid": 3183601,
+            "projectID": 377051,
+            "fileID": 3183601,
             "required": "true"
         },
         {
             "title": "Better Advancements",
-            "projectid": 272515,
-            "fileid": 3218942,
+            "projectID": 272515,
+            "fileID": 3218942,
             "required": "true"
         },
         {
             "title": "Better Badlands",
-            "projectid": 421763,
-            "fileid": 3195284,
+            "projectID": 421763,
+            "fileID": 3195284,
             "required": "true"
         },
         {
             "title": "Better Burning",
-            "projectid": 353434,
-            "fileid": 3181436,
+            "projectID": 353434,
+            "fileID": 3181436,
             "required": "true"
         },
         {
             "title": "Better Caves",
-            "projectid": 340583,
-            "fileid": 3170047,
+            "projectID": 340583,
+            "fileID": 3170047,
             "required": "true"
         },
         {
             "title": "Better End",
-            "projectid": 428877,
-            "fileid": 3222673,
+            "projectID": 428877,
+            "fileID": 3222673,
             "required": "true"
         },
         {
             "title": "Better F3",
-            "projectid": 401648,
-            "fileid": 3204849,
-            "required": "true"
+            "projectID": 401648,
+            "fileID": 3204849,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Better Mineshafts",
-            "projectid": 389665,
-            "fileid": 3227909,
+            "projectID": 389665,
+            "fileID": 3245380,
+            "required": "true"
+        },
+        {
+            "title": "Better Respawn",
+            "projectID": 340907,
+            "fileID": 3247705,
             "required": "true"
         },
         {
             "title": "Better Shields MC",
-            "projectid": 360303,
-            "fileid": 3183362,
+            "projectID": 360303,
+            "fileID": 3183362,
             "required": "true"
         },
         {
             "title": "Better Spawner Control",
-            "projectid": 344036,
-            "fileid": 3220759,
+            "projectID": 344036,
+            "fileID": 3220759,
             "required": "true"
         },
         {
             "title": "Berry Good",
-            "projectid": 355589,
-            "fileid": 3244057,
+            "projectID": 355589,
+            "fileID": 3249305,
             "required": "true"
         },
         {
+            "title": "BiomeInfo",
+            "projectID": 291480,
+            "fileID": 3168523,
+            "required": "true",
+            "platform": "Client"
+        },
+        {
             "title": "Biomes O'Plenty",
-            "projectid": 220318,
-            "fileid": 3236010,
+            "projectID": 220318,
+            "fileID": 3236010,
             "required": "true"
         },
         {
             "title": "Blame",
-            "projectid": 406201,
-            "fileid": 3181314,
+            "projectID": 406201,
+            "fileID": 3181314,
             "required": "true"
         },
         {
             "title": "Bookshelf",
-            "projectid": 228525,
-            "fileid": 3241077,
+            "projectID": 228525,
+            "fileID": 3241077,
             "required": "true"
         },
         {
             "title": "Bountiful",
-            "projectid": 309516,
-            "fileid": 3239647,
+            "projectID": 309516,
+            "fileID": 3239647,
             "required": "true"
         },
         {
             "title": "Caelus",
-            "projectid": 308989,
-            "fileid": 3224510,
+            "projectID": 308989,
+            "fileID": 3224510,
             "required": "true"
         },
         {
             "title": "Campfire Torches",
-            "projectid": 333389,
-            "fileid": 3071490,
+            "projectID": 333389,
+            "fileID": 3071490,
             "required": "true"
         },
         {
             "title": "Campful",
-            "projectid": 429901,
-            "fileid": 3230821,
+            "projectID": 429901,
+            "fileID": 3230821,
             "required": "true"
         },
         {
             "title": "Cartographer",
-            "projectid": 438387,
-            "fileid": 3238759,
+            "projectID": 438387,
+            "fileID": 3238759,
             "required": "true"
         },
         {
             "title": "Charm Reforged",
-            "projectid": 430988,
-            "fileid": 3214651,
+            "projectID": 430988,
+            "fileID": 3214651,
             "required": "true"
         },
         {
             "title": "Chocolate Fix",
-            "projectid": 416306,
-            "fileid": 3166929,
+            "projectID": 416306,
+            "fileID": 3166929,
             "required": "true"
         },
         {
             "title": "ChunkAnimator",
-            "projectid": 236484,
-            "fileid": 3224148,
-            "required": "true"
+            "projectID": 236484,
+            "fileID": 3224148,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Citadel",
-            "projectid": 331936,
-            "fileid": 3220917,
+            "projectID": 331936,
+            "fileID": 3220917,
             "required": "true"
         },
         {
             "title": "Cloth Config",
-            "projectid": 348521,
-            "fileid": 3235778,
+            "projectID": 348521,
+            "fileID": 3235778,
             "required": "true"
         },
         {
             "title": "Clumps",
-            "projectid": 256717,
-            "fileid": 3205705,
+            "projectID": 256717,
+            "fileID": 3205705,
             "required": "true"
         },
         {
             "title": "Colds: Lurker (FORGE)",
-            "projectid": 408228,
-            "fileid": 3239630,
+            "projectID": 408228,
+            "fileID": 3239630,
             "required": "true"
         },
         {
             "title": "Collective",
-            "projectid": 342584,
-            "fileid": 3238039,
+            "projectID": 342584,
+            "fileID": 3248140,
             "required": "true"
         },
         {
             "title": "Colytra",
-            "projectid": 280200,
-            "fileid": 3113926,
+            "projectID": 280200,
+            "fileID": 3113926,
             "required": "true"
         },
         {
             "title": "Comforts",
-            "projectid": 276951,
-            "fileid": 3156807,
+            "projectID": 276951,
+            "fileID": 3156807,
             "required": "true"
         },
         {
             "title": "Configured",
-            "projectid": 457570,
-            "fileid": 3244520,
-            "required": "true"
+            "projectID": 457570,
+            "fileID": 3244520,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Corpse",
-            "projectid": 316582,
-            "fileid": 3234439,
+            "projectID": 316582,
+            "fileID": 3234439,
             "required": "true"
         },
         {
             "title": "Cuneiform",
-            "projectid": 419176,
-            "fileid": 3240481,
+            "projectID": 419176,
+            "fileID": 3240481,
             "required": "true"
         },
         {
             "title": "Curios",
-            "projectid": 309927,
-            "fileid": 3231111,
+            "projectID": 309927,
+            "fileID": 3231111,
             "required": "true"
         },
         {
             "title": "Deadly End Phantoms",
-            "projectid": 374034,
-            "fileid": 3109375,
+            "projectID": 374034,
+            "fileID": 3109375,
             "required": "true"
         },
         {
             "title": "Desolation",
-            "projectid": 445926,
-            "fileid": 3235156,
+            "projectID": 445926,
+            "fileID": 3235156,
             "required": "true"
         },
         {
             "title": "Despawning Eggs Hatch",
-            "projectid": 347608,
-            "fileid": 3220708,
+            "projectID": 347608,
+            "fileID": 3220708,
             "required": "true"
         },
         {
             "title": "Dismount Entity",
-            "projectid": 348262,
-            "fileid": 3220700,
+            "projectID": 348262,
+            "fileID": 3220700,
             "required": "true"
         },
         {
             "title": "Dungeon Crawl",
-            "projectid": 324973,
-            "fileid": 3160501,
+            "projectID": 324973,
+            "fileID": 3160501,
             "required": "true"
         },
         {
             "title": "Dungeons Plus",
-            "projectid": 377794,
-            "fileid": 3193800,
+            "projectID": 377794,
+            "fileID": 3193800,
             "required": "true"
         },
         {
             "title": "Dynamic Surroundings",
-            "projectid": 238891,
-            "fileid": 3221841,
-            "required": "true"
+            "projectID": 238891,
+            "fileID": 3248516,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "The Endergetic Expansion",
-            "projectid": 291509,
-            "fileid": 3154938,
+            "projectID": 291509,
+            "fileID": 3154938,
             "required": "true"
         },
         {
             "title": "Easy Magic",
-            "projectid": 456239,
-            "fileid": 3243935,
+            "projectID": 456239,
+            "fileID": 3245963,
             "required": "true"
         },
         {
             "title": "Enhanced Celestials - Blood Moons & Harvest Moons",
-            "projectid": 438447,
-            "fileid": 3183710,
+            "projectID": 438447,
+            "fileID": 3250471,
             "required": "true"
         },
         {
             "title": "Enhanced Mushrooms",
-            "projectid": 383725,
-            "fileid": 3238643,
+            "projectID": 383725,
+            "fileID": 3250107,
             "required": "true"
         },
         {
             "title": "Entity Culling",
-            "projectid": 409087,
-            "fileid": 3243084,
-            "required": "true"
+            "projectID": 409087,
+            "fileID": 3251163,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Environmental",
-            "projectid": 388992,
-            "fileid": 3221635,
+            "projectID": 388992,
+            "fileID": 3221635,
             "required": "true"
         },
         {
             "title": "Extended Bone Meal",
-            "projectid": 367534,
-            "fileid": 3220655,
+            "projectID": 367534,
+            "fileID": 3220655,
             "required": "true"
         },
         {
             "title": "Extra Boats",
-            "projectid": 337396,
-            "fileid": 3175092,
+            "projectID": 337396,
+            "fileID": 3175092,
             "required": "true"
         },
         {
             "title": "Extra Trades",
-            "projectid": 374033,
-            "fileid": 3122110,
+            "projectID": 374033,
+            "fileID": 3122110,
             "required": "true"
         },
         {
             "title": "Falling Tree",
-            "projectid": 349559,
-            "fileid": 3207457,
+            "projectID": 349559,
+            "fileID": 3249539,
             "required": "true"
         },
         {
+            "title": "FancyMenu",
+            "projectID": 367706,
+            "fileID": 3249334,
+            "required": "true",
+            "platform": "Client"
+        },
+        {
             "title": "Farmer's Delight",
-            "projectid": 398521,
-            "fileid": 3188508,
+            "projectID": 398521,
+            "fileID": 3188508,
             "required": "true"
         },
         {
             "title": "Farmer's Delight Compat",
-            "projectid": 455519,
-            "fileid": 3235962,
+            "projectID": 455519,
+            "fileID": 3235962,
             "required": "true"
         },
         {
             "title": "Farmer's Delight Integration",
-            "projectid": 447816,
-            "fileid": 3222746,
+            "projectID": 447816,
+            "fileID": 3222746,
             "required": "true"
         },
         {
             "title": "Fast Leaf Decay",
-            "projectid": 230976,
-            "fileid": 3052146,
+            "projectID": 230976,
+            "fileID": 3052146,
             "required": "true"
         },
         {
             "title": "FPS Reducer",
-            "projectid": 280294,
-            "fileid": 3103648,
-            "required": "true"
+            "projectID": 280294,
+            "fileID": 3103648,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Geckolib",
-            "projectid": 388172,
-            "fileid": 3224454,
+            "projectID": 388172,
+            "fileID": 3224454,
             "required": "true"
         },
         {
             "title": "Goblin Traders",
-            "projectid": 363703,
-            "fileid": 3242320,
+            "projectID": 363703,
+            "fileID": 3242320,
             "required": "true"
         },
         {
             "title": "Guard Villagers",
-            "projectid": 360203,
-            "fileid": 3205572,
+            "projectID": 360203,
+            "fileID": 3251245,
             "required": "true"
         },
         {
             "title": "Herd Mentality",
-            "projectid": 377572,
-            "fileid": 3185281,
+            "projectID": 377572,
+            "fileID": 3185281,
             "required": "true"
         },
         {
             "title": "Hunter Illager",
-            "projectid": 318857,
-            "fileid": 3194401,
+            "projectID": 318857,
+            "fileID": 3194401,
             "required": "true"
         },
         {
             "title": "Illagers Wear Armor",
-            "projectid": 407488,
-            "fileid": 3168027,
+            "projectID": 407488,
+            "fileID": 3168027,
+            "required": "true"
+        },
+        {
+            "title": "Infernal Expansion",
+            "projectID": 395078,
+            "fileID": 3183888,
             "required": "true"
         },
         {
             "title": "Inventory HUD+",
-            "projectid": 357540,
-            "fileid": 3203374,
-            "required": "true"
+            "projectID": 357540,
+            "fileID": 3203374,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Inventory Totem",
-            "projectid": 349071,
-            "fileid": 3220532,
+            "projectID": 349071,
+            "fileID": 3220532,
             "required": "true"
         },
         {
             "title": "Jade",
-            "projectid": 324717,
-            "fileid": 3238316,
-            "required": "true"
+            "projectID": 324717,
+            "fileID": 3238316,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "JEI Integration",
-            "projectid": 265917,
-            "fileid": 3202331,
+            "projectID": 265917,
+            "fileID": 3202331,
             "required": "true"
         },
         {
             "title": "Just Enough Items",
-            "projectid": 238222,
-            "fileid": 3245003,
+            "projectID": 238222,
+            "fileID": 3245079,
             "required": "true"
         },
         {
             "title": "Kiwi",
-            "projectid": 303657,
-            "fileid": 3228367,
+            "projectID": 303657,
+            "fileID": 3228367,
             "required": "true"
         },
         {
+            "title": "Konkrete",
+            "projectID": 410295,
+            "fileID": 3239521,
+            "required": "true",
+            "platform": "Client"
+        },
+        {
             "title": "Kotlin Forge",
-            "projectid": 351264,
-            "fileid": 3218088,
+            "projectID": 351264,
+            "fileID": 3218088,
             "required": "true"
         },
         {
             "title": "KubeJS",
-            "projectid": 238086,
-            "fileid": 3240199,
+            "projectID": 238086,
+            "fileID": 3247934,
             "required": "true"
         },
         {
             "title": "Let Sleeping Dogs Lie",
-            "projectid": 334098,
-            "fileid": 3062122,
-            "required": "true"
+            "projectID": 334098,
+            "fileID": 3062122,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Macaw Bridges",
-            "projectid": 351725,
-            "fileid": 3182346,
+            "projectID": 351725,
+            "fileID": 3182346,
             "required": "true"
         },
         {
             "title": "Macaw Doors",
-            "projectid": 378646,
-            "fileid": 3182357,
+            "projectID": 378646,
+            "fileID": 3182357,
             "required": "true"
         },
         {
             "title": "Macaw Fences",
-            "projectid": 453925,
-            "fileid": 3231567,
+            "projectID": 453925,
+            "fileID": 3231567,
             "required": "true"
         },
         {
             "title": "Macaw Furniture",
-            "projectid": 359540,
-            "fileid": 3182349,
+            "projectID": 359540,
+            "fileID": 3182349,
             "required": "true"
         },
         {
             "title": "Macaw Roofs",
-            "projectid": 352039,
-            "fileid": 3182364,
+            "projectID": 352039,
+            "fileID": 3182364,
             "required": "true"
         },
         {
             "title": "Macaw Trapdoors",
-            "projectid": 400933,
-            "fileid": 3182352,
+            "projectID": 400933,
+            "fileID": 3182352,
             "required": "true"
         },
         {
             "title": "Macaw Windows",
-            "projectid": 363569,
-            "fileid": 3200515,
+            "projectID": 363569,
+            "fileID": 3200515,
             "required": "true"
         },
         {
             "title": "Masonry",
-            "projectid": 310494,
-            "fileid": 3055694,
+            "projectID": 310494,
+            "fileID": 3055694,
             "required": "true"
         },
         {
             "title": "More Crafting Tables",
-            "projectid": 417365,
-            "fileid": 3171579,
+            "projectID": 417365,
+            "fileID": 3171579,
             "required": "true"
         },
         {
             "title": "More Zombie Villagers",
-            "projectid": 347338,
-            "fileid": 3220496,
+            "projectID": 347338,
+            "fileID": 3245144,
             "required": "true"
         },
         {
             "title": "Moving Elevators",
-            "projectid": 373051,
-            "fileid": 3192458,
+            "projectID": 373051,
+            "fileID": 3192458,
             "required": "true"
         },
         {
             "title": "Nether Portal Fix",
-            "projectid": 241160,
-            "fileid": 3098229,
+            "projectID": 241160,
+            "fileID": 3098229,
             "required": "true"
         },
         {
             "title": "Nether Portal Spread",
-            "projectid": 342097,
-            "fileid": 3231313,
+            "projectID": 342097,
+            "fileID": 3231313,
+            "required": "true"
+        },
+        {
+            "title": "Nether Skeletons",
+            "projectID": 460954,
+            "fileID": 3248928,
             "required": "true"
         },
         {
             "title": "One Player Sleeping",
-            "projectid": 360272,
-            "fileid": 3107831,
+            "projectID": 360272,
+            "fileID": 3107831,
             "required": "true"
         },
         {
             "title": "Outer End",
-            "projectid": 430404,
-            "fileid": 3195106,
+            "projectID": 430404,
+            "fileID": 3195106,
             "required": "true"
         },
         {
             "title": "Outvoted",
-            "projectid": 415057,
-            "fileid": 3239661,
+            "projectID": 415057,
+            "fileID": 3239661,
             "required": "true"
         },
         {
             "title": "Overloaded Armor",
-            "projectid": 314002,
-            "fileid": 3055679,
+            "projectID": 314002,
+            "fileID": 3055679,
             "required": "true"
         },
         {
             "title": "Passive Shield",
-            "projectid": 447359,
-            "fileid": 3220444,
+            "projectID": 447359,
+            "fileID": 3220444,
             "required": "true"
         },
         {
             "title": "Path Under Gates",
-            "projectid": 358580,
-            "fileid": 3151289,
+            "projectID": 358580,
+            "fileID": 3151289,
             "required": "true"
         },
         {
             "title": "Pick Up Notifier",
-            "projectid": 351441,
-            "fileid": 3066596,
-            "required": "true"
+            "projectID": 351441,
+            "fileID": 3066596,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Pillagers",
-            "projectid": 288907,
-            "fileid": 3185413,
+            "projectID": 288907,
+            "fileID": 3185413,
             "required": "true"
         },
         {
             "title": "Plain Grinder",
-            "projectid": 452000,
-            "fileid": 3226877,
+            "projectID": 452000,
+            "fileID": 3226877,
             "required": "true"
         },
         {
             "title": "Polymorph",
-            "projectid": 388800,
-            "fileid": 3187811,
+            "projectID": 388800,
+            "fileID": 3187811,
+            "required": "true"
+        },
+        {
+            "title": "Pop",
+            "projectID": 457826,
+            "fileID": 3243205,
             "required": "true"
         },
         {
             "title": "Quark",
-            "projectid": 243121,
-            "fileid": 3221260,
+            "projectID": 243121,
+            "fileID": 3221260,
             "required": "true"
         },
         {
             "title": "Quark O'Plenty",
-            "projectid": 436223,
-            "fileid": 3237238,
+            "projectID": 436223,
+            "fileID": 3237238,
             "required": "true"
         },
         {
             "title": "Random Patches",
-            "projectid": 285612,
-            "fileid": 3211323,
+            "projectID": 285612,
+            "fileID": 3211323,
             "required": "true"
         },
         {
             "title": "Regrowth",
-            "projectid": 381597,
-            "fileid": 3147723,
+            "projectID": 381597,
+            "fileID": 3147723,
             "required": "true"
         },
         {
             "title": "Repurposed Structures",
-            "projectid": 368293,
-            "fileid": 3243398,
+            "projectID": 368293,
+            "fileID": 3243398,
             "required": "true"
         },
         {
             "title": "Revamped Wolf",
-            "projectid": 399945,
-            "fileid": 3177100,
+            "projectID": 399945,
+            "fileID": 3177100,
             "required": "true"
         },
         {
             "title": "Rhino",
-            "projectid": 416294,
-            "fileid": 3187177,
+            "projectID": 416294,
+            "fileID": 3187177,
             "required": "true"
         },
         {
             "title": "Savage and Ravage",
-            "projectid": 381736,
-            "fileid": 3226442,
+            "projectID": 381736,
+            "fileID": 3226442,
             "required": "true"
         },
         {
             "title": "Save My Stronghold",
-            "projectid": 355248,
-            "fileid": 3188216,
+            "projectID": 355248,
+            "fileID": 3188216,
             "required": "true"
         },
         {
             "title": "Serene Seasons",
-            "projectid": 291874,
-            "fileid": 3202233,
+            "projectID": 291874,
+            "fileID": 3202233,
             "required": "true"
         },
         {
             "title": "Smooth Boot",
-            "projectid": 420913,
-            "fileid": 3224252,
+            "projectID": 420913,
+            "fileID": 3224252,
+            "required": "true"
+        },
+        {
+            "title": "Spawn Balance Utility",
+            "projectID": 410821,
+            "fileID": 3250432,
             "required": "true"
         },
         {
             "title": "Stray Spawn",
-            "projectid": 348172,
-            "fileid": 3238063,
+            "projectID": 348172,
+            "fileID": 3238063,
             "required": "true"
         },
         {
             "title": "Structure Gel API",
-            "projectid": 378802,
-            "fileid": 3171697,
+            "projectID": 378802,
+            "fileID": 3171697,
             "required": "true"
         },
         {
             "title": "Subterranean Wilderness",
-            "projectid": 413426,
-            "fileid": 3178364,
+            "projectID": 413426,
+            "fileID": 3252175,
             "required": "true"
         },
         {
             "title": "Supplementaries",
-            "projectid": 412082,
-            "fileid": 3241811,
+            "projectID": 412082,
+            "fileID": 3250953,
             "required": "true"
         },
         {
             "title": "Swing Through Grass",
-            "projectid": 264353,
-            "fileid": 3103028,
+            "projectID": 264353,
+            "fileID": 3103028,
             "required": "true"
         },
         {
             "title": "TenshiLib",
-            "projectid": 312040,
-            "fileid": 3067125,
+            "projectID": 312040,
+            "fileID": 3067125,
             "required": "true"
         },
         {
             "title": "Tips",
-            "projectid": 306549,
-            "fileid": 3232463,
-            "required": "true"
+            "projectID": 306549,
+            "fileID": 3232463,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Total Darkness",
-            "projectid": 400838,
-            "fileid": 3093337,
-            "required": "true"
+            "projectID": 400838,
+            "fileID": 3093337,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Armor Toughness Bar",
-            "projectid": 313816,
-            "fileid": 3145252,
-            "required": "true"
+            "projectID": 313816,
+            "fileID": 3145252,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Trash Slot",
-            "projectid": 235577,
-            "fileid": 3098221,
+            "projectID": 235577,
+            "fileID": 3098221,
             "required": "true"
         },
         {
             "title": "Traveler's Index",
-            "projectid": 418863,
-            "fileid": 3132023,
+            "projectID": 418863,
+            "fileID": 3132023,
             "required": "true"
         },
         {
             "title": "Traveler's Backpack",
-            "projectid": 321117,
-            "fileid": 3243518,
+            "projectID": 321117,
+            "fileID": 3243518,
             "required": "true"
         },
         {
             "title": "U Team Core",
-            "projectid": 273744,
-            "fileid": 3233194,
+            "projectID": 273744,
+            "fileID": 3233194,
             "required": "true"
         },
         {
             "title": "Upgraded Aquatic",
-            "projectid": 326895,
-            "fileid": 3171113,
+            "projectID": 326895,
+            "fileID": 3249419,
             "required": "true"
         },
         {
             "title": "Upgraded Netherite",
-            "projectid": 400085,
-            "fileid": 3216419,
+            "projectID": 400085,
+            "fileID": 3216419,
             "required": "true"
         },
         {
             "title": "Upstream",
-            "projectid": 428483,
-            "fileid": 3139159,
+            "projectID": 428483,
+            "fileID": 3139159,
             "required": "true"
         },
         {
             "title": "Variant16x",
-            "projectid": 364441,
-            "fileid": 3214607,
+            "projectID": 364441,
+            "fileID": 3214607,
             "required": "true"
         },
         {
             "title": "Variant16x - Biomes O'Plenty",
-            "projectid": 373906,
-            "fileid": 3210972,
+            "projectID": 373906,
+            "fileID": 3210972,
             "required": "true"
         },
         {
             "title": "Villager Names",
-            "projectid": 345854,
-            "fileid": 3219218,
+            "projectID": 345854,
+            "fileID": 3219218,
             "required": "true"
         },
         {
             "title": "Waystones",
-            "projectid": 245755,
-            "fileid": 3222129,
+            "projectID": 245755,
+            "fileID": 3222129,
             "required": "true"
         },
         {
             "title": "Wither Bones",
-            "projectid": 382840,
-            "fileid": 3160259,
+            "projectID": 382840,
+            "fileID": 3160259,
             "required": "true"
         },
         {
             "title": "XL Packets",
-            "projectid": 391640,
-            "fileid": 3119850,
+            "projectID": 391640,
+            "fileID": 3119850,
             "required": "true"
         },
         {
             "title": "Yung's API",
-            "projectid": 421850,
-            "fileid": 3186128,
+            "projectID": 421850,
+            "fileID": 3186128,
+
             "required": "true"
         }
     ]
