@@ -30,7 +30,19 @@
         {
             "title": "Additional Bars",
             "projectID": 357362,
-            "fileID": 3252134,
+            "fileID": 3253789,
+            "required": "true"
+        },
+        {
+            "title": "Additional Bars - Biomes O' Plenty addon",
+            "projectID": 460311,
+            "fileID": 3253790,
+            "required": "true"
+        },
+        {
+            "title": "Advanced Compass",
+            "projectID": 461424,
+            "fileID": 3250481,
             "required": "true"
         },
         {
@@ -42,7 +54,7 @@
         {
             "title": "Architectury",
             "projectID": 419699,
-            "fileID": 3248258,
+            "fileID": 3254875,
             "required": "true"
         },
         {
@@ -120,7 +132,7 @@
         {
             "title": "Better Burning",
             "projectID": 353434,
-            "fileID": 3181436,
+            "fileID": 3254823,
             "required": "true"
         },
         {
@@ -255,7 +267,7 @@
         {
             "title": "Cloth Config",
             "projectID": 348521,
-            "fileID": 3235778,
+            "fileID": 3253620,
             "required": "true"
         },
         {
@@ -291,7 +303,7 @@
         {
             "title": "Configured",
             "projectID": 457570,
-            "fileID": 3244520,
+            "fileID": 3257512,
             "required": "true",
             "platform": "Client"
         },
@@ -299,6 +311,18 @@
             "title": "Corpse",
             "projectID": 316582,
             "fileID": 3234439,
+            "required": "true"
+        },
+        {
+            "title": "Create",
+            "projectID": 328085,
+            "fileID": 3260165,
+            "required": "true"
+        },
+        {
+            "title": "Creatures and Beasts",
+            "projectID": 414401,
+            "fileID": 3252973,
             "required": "true"
         },
         {
@@ -383,7 +407,7 @@
         {
             "title": "Entity Culling",
             "projectID": 409087,
-            "fileID": 3251163,
+            "fileID": 3258215,
             "required": "true",
             "platform": "Client"
         },
@@ -420,7 +444,7 @@
         {
             "title": "FancyMenu",
             "projectID": 367706,
-            "fileID": 3249334,
+            "fileID": 3256196,
             "required": "true",
             "platform": "Client"
         },
@@ -458,7 +482,7 @@
         {
             "title": "Geckolib",
             "projectID": 388172,
-            "fileID": 3224454,
+            "fileID": 3259843,
             "required": "true"
         },
         {
@@ -470,19 +494,25 @@
         {
             "title": "Guard Villagers",
             "projectID": 360203,
-            "fileID": 3251245,
+            "fileID": 3253939,
             "required": "true"
         },
         {
             "title": "Herd Mentality",
             "projectID": 377572,
-            "fileID": 3185281,
+            "fileID": 3254796,
             "required": "true"
         },
         {
             "title": "Hunter Illager",
             "projectID": 318857,
             "fileID": 3194401,
+            "required": "true"
+        },
+        {
+            "title": "Illagers+",
+            "projectID": 325851,
+            "fileID": 3256635,
             "required": "true"
         },
         {
@@ -543,15 +573,15 @@
             "platform": "Client"
         },
         {
-            "title": "Kotlin Forge",
+            "title": "Kotlin for Forge",
             "projectID": 351264,
-            "fileID": 3218088,
+            "fileID": 3256957,
             "required": "true"
         },
         {
             "title": "KubeJS",
             "projectID": 238086,
-            "fileID": 3247934,
+            "fileID": 3253837,
             "required": "true"
         },
         {
@@ -660,7 +690,7 @@
         {
             "title": "Outvoted",
             "projectID": 415057,
-            "fileID": 3239661,
+            "fileID": 3260105,
             "required": "true"
         },
         {
@@ -715,7 +745,7 @@
         {
             "title": "Quark",
             "projectID": 243121,
-            "fileID": 3221260,
+            "fileID": 3254368,
             "required": "true"
         },
         {
@@ -791,6 +821,12 @@
             "required": "true"
         },
         {
+            "title": "Stoneholm, Underground Villages",
+            "projectID": 461822,
+            "fileID": 3253967,
+            "required": "true"
+        },
+        {
             "title": "Structure Gel API",
             "projectID": 378802,
             "fileID": 3171697,
@@ -828,6 +864,12 @@
             "platform": "Client"
         },
         {
+            "title": "Tool Belt",
+            "projectID": 260262,
+            "fileID": 3258349,
+            "required": "true"
+        },
+        {
             "title": "Total Darkness",
             "projectID": 400838,
             "fileID": 3093337,
@@ -862,7 +904,7 @@
         {
             "title": "U Team Core",
             "projectID": 273744,
-            "fileID": 3233194,
+            "fileID": 3257635,
             "required": "true"
         },
         {
@@ -923,7 +965,6 @@
             "title": "Yung's API",
             "projectID": 421850,
             "fileID": 3186128,
-
             "required": "true"
         }
     ]

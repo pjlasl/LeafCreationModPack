@@ -10,6 +10,7 @@
     "lcmp.tip.corpse_1" : "Corpses of dead players, if left alone, will turn into skeletons over time.",
     "lcmp.tip.guard_villager_1" : "Villages now have guards. Set patrols to guard your villagers.",
     "lcmp.tip.regrowth_1" : "Villagers will maintain their villages by lighting it up, building walls, and beautifying it.",
+    "lcmp.tip.serene_1" : "A calendar can help you identify your biome and current season.",
     "lcmp.tip.villager_names_1" : "Your villagers have names, what your favorite?"
     
 }
