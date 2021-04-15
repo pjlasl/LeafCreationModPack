@@ -3,7 +3,7 @@
         "version": "1.16.5",
         "modLoaders": [
             {
-                "id": "forge-36.1.0",
+                "id": "forge-36.1.1",
                 "primary": true
             }
         ]
@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "1.3",
+    "version": "1.5",
     "author": "pablleaf",
     "name": "LeafCreations",
     "files": [
@@ -48,13 +48,13 @@
         {
             "title": "Alex's Mobs",
             "projectID": 426558,
-            "fileID": 3248100,
+            "fileID": 3268781,
             "required": "true"
         },
         {
             "title": "Architectury",
             "projectID": 419699,
-            "fileID": 3254875,
+            "fileID": 3277936,
             "required": "true"
         },
         {
@@ -102,7 +102,7 @@
         {
             "title": "Bamboo Everything",
             "projectID": 331723,
-            "fileID": 3071140,
+            "fileID": 3271749,
             "required": "true"
         },
         {
@@ -128,6 +128,13 @@
             "projectID": 421763,
             "fileID": 3195284,
             "required": "true"
+        },
+        {
+            "title": "Better Biome Blend",
+            "projectID": 446253,
+            "fileID": 3264893,
+            "required": "true",
+            "platform": "Client"
         },
         {
             "title": "Better Burning",
@@ -267,13 +274,13 @@
         {
             "title": "Cloth Config",
             "projectID": 348521,
-            "fileID": 3253620,
+            "fileID": 3261152,
             "required": "true"
         },
         {
             "title": "Clumps",
             "projectID": 256717,
-            "fileID": 3205705,
+            "fileID": 3275832,
             "required": "true"
         },
         {
@@ -303,20 +310,20 @@
         {
             "title": "Configured",
             "projectID": 457570,
-            "fileID": 3257512,
+            "fileID": 3266880,
             "required": "true",
             "platform": "Client"
         },
         {
             "title": "Corpse",
             "projectID": 316582,
-            "fileID": 3234439,
+            "fileID": 3265015,
             "required": "true"
         },
         {
             "title": "Create",
             "projectID": 328085,
-            "fileID": 3260165,
+            "fileID": 3271972,
             "required": "true"
         },
         {
@@ -332,9 +339,9 @@
             "required": "true"
         },
         {
-            "title": "Curios",
+            "title": "Curios API",
             "projectID": 309927,
-            "fileID": 3231111,
+            "fileID": 3275653,
             "required": "true"
         },
         {
@@ -395,7 +402,7 @@
         {
             "title": "Enhanced Celestials - Blood Moons & Harvest Moons",
             "projectID": 438447,
-            "fileID": 3250471,
+            "fileID": 3261646,
             "required": "true"
         },
         {
@@ -438,7 +445,7 @@
         {
             "title": "Falling Tree",
             "projectID": 349559,
-            "fileID": 3249539,
+            "fileID": 3270207,
             "required": "true"
         },
         {
@@ -451,7 +458,7 @@
         {
             "title": "Farmer's Delight",
             "projectID": 398521,
-            "fileID": 3188508,
+            "fileID": 3272000,
             "required": "true"
         },
         {
@@ -482,7 +489,7 @@
         {
             "title": "Geckolib",
             "projectID": 388172,
-            "fileID": 3259843,
+            "fileID": 3275571,
             "required": "true"
         },
         {
@@ -512,7 +519,7 @@
         {
             "title": "Illagers+",
             "projectID": 325851,
-            "fileID": 3256635,
+            "fileID": 3274292,
             "required": "true"
         },
         {
@@ -556,13 +563,13 @@
         {
             "title": "Just Enough Items",
             "projectID": 238222,
-            "fileID": 3245079,
+            "fileID": 3272965,
             "required": "true"
         },
         {
             "title": "Kiwi",
             "projectID": 303657,
-            "fileID": 3228367,
+            "fileID": 3273567,
             "required": "true"
         },
         {
@@ -581,7 +588,7 @@
         {
             "title": "KubeJS",
             "projectID": 238086,
-            "fileID": 3253837,
+            "fileID": 3269810,
             "required": "true"
         },
         {
@@ -624,7 +631,7 @@
         {
             "title": "Macaw Trapdoors",
             "projectID": 400933,
-            "fileID": 3182352,
+            "fileID": 3273512,
             "required": "true"
         },
         {
@@ -684,7 +691,7 @@
         {
             "title": "Outer End",
             "projectID": 430404,
-            "fileID": 3195106,
+            "fileID": 3269933,
             "required": "true"
         },
         {
@@ -745,7 +752,7 @@
         {
             "title": "Quark",
             "projectID": 243121,
-            "fileID": 3254368,
+            "fileID": 3261500,
             "required": "true"
         },
         {
@@ -761,6 +768,12 @@
             "required": "true"
         },
         {
+            "title": "Raw Ore",
+            "projectID": 470655,
+            "fileID": 3276672,
+            "required": "true"
+        },
+        {
             "title": "Regrowth",
             "projectID": 381597,
             "fileID": 3147723,
@@ -769,7 +782,7 @@
         {
             "title": "Repurposed Structures",
             "projectID": 368293,
-            "fileID": 3243398,
+            "fileID": 3264854,
             "required": "true"
         },
         {
@@ -781,7 +794,7 @@
         {
             "title": "Rhino",
             "projectID": 416294,
-            "fileID": 3187177,
+            "fileID": 3277912,
             "required": "true"
         },
         {
@@ -823,7 +836,7 @@
         {
             "title": "Stoneholm, Underground Villages",
             "projectID": 461822,
-            "fileID": 3253967,
+            "fileID": 3276703,
             "required": "true"
         },
         {
@@ -841,7 +854,7 @@
         {
             "title": "Supplementaries",
             "projectID": 412082,
-            "fileID": 3250953,
+            "fileID": 3273947,
             "required": "true"
         },
         {
@@ -898,7 +911,7 @@
         {
             "title": "Traveler's Backpack",
             "projectID": 321117,
-            "fileID": 3243518,
+            "fileID": 3271219,
             "required": "true"
         },
         {
@@ -964,7 +977,7 @@
         {
             "title": "Yung's API",
             "projectID": 421850,
-            "fileID": 3186128,
+            "fileID": 3261121,
             "required": "true"
         }
     ]
